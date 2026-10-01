@@ -1,7 +1,13 @@
-# # Digital Electronic Safe System
+# Digital Electronic Safe System
 
 ## Overview
 A digital electronic safe system designed and built from scratch as an Electrical Engineering project. The system implements secure 3-digit code authentication using discrete digital logic components.
+
+## Project Demo
+
+A short demonstration of the physical electronic safe system, showing the implemented hardware and verifying the system's functional operation.
+
+▶️ **[Watch the Electronic Safe System Demo](electronic-safe-demo.mov)**
 
 ## Key Features
 - 3-digit access code authentication
