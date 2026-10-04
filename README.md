@@ -7,7 +7,7 @@ A digital electronic safe system designed and built from scratch as an Electrica
 
 A short demonstration of the physical electronic safe system, showing the implemented hardware and verifying the system's functional operation.
 
-▶️ **[Watch the Electronic Safe System Demo](electronic-safe-demo.mov)**
+▶️ [Watch the Electronic Safe System Demo](electronic-safe-demo.mp4)
 
 ## Key Features
 - 3-digit access code authentication
